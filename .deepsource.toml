@@ -1,0 +1,39 @@
+version = 1
+
+[[analyzers]]
+name = "go"
+enabled = true
+
+[[analyzers]]
+name = "python"
+enabled = true
+
+[[analyzers]]
+name = "terraform"
+enabled = true
+
+[[analyzers]]
+name = "ruby"
+enabled = true
+
+[[analyzers]]
+name = "javascript"
+enabled = true
+
+  [analyzers.meta]
+  plugins = ["meteor"]
+
+[[analyzers]]
+name = "docker"
+enabled = true
+
+  [analyzers.meta]
+  dockerfile_paths = ["5000"]
+
+[[analyzers]]
+name = "java"
+enabled = true
+
+[[transformers]]
+name = "standardrb"
+enabled = true
