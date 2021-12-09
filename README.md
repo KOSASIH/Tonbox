@@ -1,2 +1,2 @@
 # Tonbox
-a marketplace for miners' latest API's technology innovations.
+A marketplace for miners' latest API's technology innovations.
