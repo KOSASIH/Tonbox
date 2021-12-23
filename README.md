@@ -8,6 +8,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/KOSASIH/Tonbox)](https://github.com/KOSASIH/Tonbox/stargazers)
 [![GitHub license](https://img.shields.io/github/license/KOSASIH/Tonbox)](https://github.com/KOSASIH/Tonbox/blob/main/LICENSE)
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FKosasihg88G)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FKOSASIH%2FTonbox)
+[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/5485/badge)](https://bestpractices.coreinfrastructure.org/projects/5485)
 
 # Tonbox
 A marketplace for miners' latest API's technology innovations.
