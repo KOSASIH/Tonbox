@@ -12,10 +12,6 @@
 [![GitHub license](https://img.shields.io/github/license/KOSASIH/Tonbox)](https://github.com/KOSASIH/Tonbox/blob/main/LICENSE)
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FKosasihg88G)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FKOSASIH%2FTonbox)
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/5485/badge)](https://bestpractices.coreinfrastructure.org/projects/5485)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=KOSASIH&show_icons=true)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KOSASIH&theme=blue-green)
-![GitHub Contributors Image](https://contrib.rocks/image?repo=KOSASIH/Tonbox)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KOSASIH&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 You can use the [editor on GitHub](https://github.com/KOSASIH/Tonbox/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
